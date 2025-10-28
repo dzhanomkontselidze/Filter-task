@@ -29,7 +29,7 @@ function filtrovane(arr = [], 'number') {
 console.log(parseInt("3a") == '3a')
 console.log(parseInt('30') == '30')
 console.log(filtrovane(toFilter))
-console.log("Макс, вогник в тт!!!!")
+console.log("cірьога арсенал!!!!")
 
 
 
